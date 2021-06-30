@@ -7,7 +7,7 @@ Powerfull TODOLIST app with React.js with Add, Remove, Remove all, Edit, Local S
 I am offering my codes for free I will become happy if thid become helpful to you! you can simply clone this project by entering his command below- (Make sure you have git installed in your machine)
 
 ```bash
-git clone https://github.com/TaheirAhmedAshraf/React-ToDoLish.git
+git clone https://github.com/TaheirAhmedAshraf/Advance_React_TODOLIST.git
 ```
 
 ## Run in your machine
